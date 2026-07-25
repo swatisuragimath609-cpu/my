@@ -1,3 +1,3 @@
 # my
 this is my first git repository
-Author -swati s
+Author -swati s s
